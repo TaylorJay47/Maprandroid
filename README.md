@@ -55,3 +55,17 @@ To run instrumented tests:
 ## License
 
 This project is open-source and available under the terms of the [MIT License](LICENSE).
+
+## AI Usage & Transparency Disclosure
+
+Some of the code, documentation, and assets within this repository were created or optimized with the assistance of artificial intelligence tools (e.g., GitHub Copilot, ChatGPT, Claude).
+
+### Human Oversight & Review
+To ensure project quality and security, all AI-assisted outputs undergo a rigorous review process:
+- **Verification:** Every line of code is human-reviewed, customized, and validated before merging.
+- **Testing:** Functionality is tested locally to minimize bugs, hallucinated dependencies, or performance drops.
+
+### No-Liability & Accountability Disclaimer
+- **As-Is Basis:** This software is provided "as is" without warranty of any kind. 
+- **User Responsibility:** AI models can occasionally produce insecure, inefficient, or flawed logic. Users are strongly advised to audit and test the code independently before deployment in production environments.
+- **Accountability:** The human maintainers retain final accountability for the codebase, architecture, and fitness for purpose.
